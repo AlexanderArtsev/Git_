@@ -1,5 +1,8 @@
 def add(x,y):
-    return x +
+    return x + y
 
 def prod(x,y):
     return x*y
+
+def venom(x,y):
+    return x - y
