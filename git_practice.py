@@ -6,3 +6,5 @@ def prod(x,y):
 
 def venom(x,y):
     return x - y
+def remain(x, y):
+    return x % y
